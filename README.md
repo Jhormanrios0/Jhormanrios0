@@ -22,7 +22,7 @@
 
 ## <picture><img src = "https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif" width = 40px></picture> Here's some fun facts about me:
 
-<picture> <img align="right" src="https://media.tenor.com/PiWTtp8xtu0AAAAi/work-glasses.gif" width = 200px></picture>
+<picture> <img align="right" src="https://media.tenor.com/PiWTtp8xtu0AAAAi/work-glasses.gif" width = 150px></picture>
 
 - 🤖 I am currently improving my skills in JavaScript.
 
