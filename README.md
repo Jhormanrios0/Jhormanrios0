@@ -29,11 +29,9 @@
 
 - 💻 I am exploring UX/UI design to create intuitive and attractive user interfaces.
 
-<br>
+<br> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> </picture> My Skills
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> </picture> My Skills
-
-#### <picture> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ3NjhtbTlrMW11d3Bza3FqMjE4a2FtZGlycGl4cWo1bWtvN3prOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width =  25px style ="border-radius: 50%"> </picture> Lenguajes de Programación
+#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ3NjhtbTlrMW11d3Bza3FqMjE4a2FtZGlycGl4cWo1bWtvN3prOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="25px" style="border-radius: 50%;"> </picture> Lenguajes de Programación
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,7 +39,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
-#### <picture> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q2M2toMm9uenNxb21sZW8yZW8yMTRqdHJ1ZDlvbnI5ZmEwbnZlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width = 20px style = "border-radius: 50%"> </picture> Herramientas de Desarrollo
+#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q2M2toMm9uenNxb21sZW8yZW8yMTRqdHJ1ZDlvbnI5ZmEwbnZlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Herramientas de Desarrollo
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -49,7 +47,7 @@
   <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
 </p>
 
-#### <picture> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o2MnUwYTc3azlybmtzM2Z6YW9meTYwOXlvdHZobXBhNjFmMXY5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y1T0zY1gR5qe5O/giphy.gif" width = 20px style= "border-radius: 50%"> </picture> Frameworks y Librerías
+#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o2MnUwYTc3azlybmtzM2Z6YW9meTYwOXlvdHZobXBhNjFmMXY5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y1T0zY1gR5qe5O/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Frameworks y Librerías
 
 <p align="left">
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
@@ -57,7 +55,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-#### <picture> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21mZW43bmQ3Mms3dmxlZGUxeGt0M3BzaDYybXR3cnB0bmlocjg3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn6t51nYZDwNIqI/giphy.gif" width = 20px style = "border-radius: 50%"> </picture> Diseño
+#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21mZW43bmQ3Mms3dmxlZGUxeGt0M3BzaDYybXR3cnB0bmlocjg3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn6t51nYZDwNIqI/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Diseño
 
 <p align="left">
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
