@@ -1,25 +1,35 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--horizontal divider(gradiant)-->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+  <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary>
-      <h1 style="display: inline-block">
-        Hi
-        <img src="https://media.tenor.com/M3NNZHZDkBkAAAAi/book-marina-lopes.gif" alt="Lightning Bolt" style="width: 1em; height: 1.3em; vertical-align: middle;">
-        , I'm Jhormanrios0
-      </h1>
-    </summary>
-  </ul>
-</div>
+  <div id="user-content-toc">
+    <ul align="left">
+      <summary>
+        <h1 style="display: inline-block">
+          Hi
+          <img src="https://media.tenor.com/M3NNZHZDkBkAAAAi/book-marina-lopes.gif" alt="Lightning Bolt" style="width: 1em; height: 1.3em; vertical-align: middle;">
+          , I'm Jhormanrios0
+        </h1>
+      </summary>
+    </ul>
+  </div>
 
-<!--About Me-->
+  <!--About Me-->
 
-## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3YXU3MjJiMWlxbHYxdDJuN3dmbmtscndqc2F2MzZxemhod2xzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="20px" style="border-radius: 50%;"></picture> Here's some fun facts about me:
+  <h2 style="text-align: center;">
+    <picture>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3YXU3MjJiMWlxbHYxdDJuN3dmbmtscndqc2F2MzZxemhod2xzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="20px" style="border-radius: 50%;">
+    </picture>
+    Here's some fun facts about me:
+  </h2>
 
-<picture> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVxMmhzd2NsaXlpbHg2cG1idTdsYnIzbnNnZTI3YmM0MjBubDM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="100%" height="200px" ></picture>
+  <!-- image -->
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <picture>
+   
+    </picture>
+  </div>
 
 - 🤖 I am currently improving my skills in JavaScript.
 
@@ -29,39 +39,81 @@
 
 - 💻 I am exploring UX/UI design to create intuitive and attractive user interfaces.
 
-<br> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> </picture> My Skills
+  <br>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px">
+  </picture>
+  My Skills
 
-#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ3NjhtbTlrMW11d3Bza3FqMjE4a2FtZGlycGl4cWo1bWtvN3prOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="25px" style="border-radius: 50%;"> </picture> Lenguajes de Programación
+  <div> 
+    <h4>
+      <picture>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ3NjhtbTlrMW11d3Bza3FqMjE4a2FtZGlycGl4cWo1bWtvN3prOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="25px" style="border-radius: 50%;">
+      </picture>
+      Lenguajes de Programación
+    </h4>
+    <section>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+      <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=flat-square&logo=octave&logoColor=fcd683" alt="Octave">
+      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+    </section>
+  </div>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-</p>
+  <div>
+    <h4>
+      <picture>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q2M2toMm9uenNxb21sZW8yZW8yMTRqdHJ1ZDlvbnI5ZmEwbnZlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px" style="border-radius: 50%;">
+      </picture>
+      Herramientas de Desarrollo
+    </h4>
+    <section>
+      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+    </section>
+  </div>
 
-#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q2M2toMm9uenNxb21sZW8yZW8yMTRqdHJ1ZDlvbnI5ZmEwbnZlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Herramientas de Desarrollo
+  <div>
+  <h4>
+    <picture>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o2MnUwYTc3azlybmtzM2Z6YW9meTYwOXlvdHZobXBhNjFmMXY5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y1T0zY1gR5qe5O/giphy.gif" width="20px" style="border-radius: 50%;">
+    </picture>
+    Frameworks y Librerías
+  </h4>
+  <section>
+    <img src="https://img.shields.io/badge/alpinejs-white.svg?style=flat-square&logo=alpinedotjs&logoColor=%238BC0D0" alt="Alpine.js">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  </section>
+  </div>
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
-</p>
+  <div>
 
-#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2o2MnUwYTc3azlybmtzM2Z6YW9meTYwOXlvdHZobXBhNjFmMXY5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77Y1T0zY1gR5qe5O/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Frameworks y Librerías
+  <h4>
+    <picture>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21mZW43bmQ3Mms3dmxlZGUxeGt0M3BzaDYybXR3cnB0bmlocjg3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn6t51nYZDwNIqI/giphy.gif" width="20px" style="border-radius: 50%;">
+    </picture>
+    Diseño
+  </h4>
+  <section>
 
-<p align="left">
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+  </section>
+  </div>
 
-#### <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21mZW43bmQ3Mms3dmxlZGUxeGt0M3BzaDYybXR3cnB0bmlocjg3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn6t51nYZDwNIqI/giphy.gif" width="20px" style="border-radius: 50%;"> </picture> Diseño
-
-<p align="left">
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px> </picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
 
 <b>My GitHub Stats</b>
 
@@ -71,19 +123,19 @@
 
 <a href="https://github.com/jhormanrios0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhormanrios0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!--profile visit count-->
+  <!--profile visit count-->
 
-<div align="center">
+  <div align="center">
 
-</div>
-<!-- CONTACTO -->
-<h3 align="left">
-  <img src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" alt="Conectando..." width="20" height="20"> Connect with me
-</h3>
+  </div>
+  <!-- CONTACTO -->
+  <h3 align="left">
+    <img src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" alt="Conectando..." width="20" height="20"> Connect with me
+  </h3>
 
-<p align="left"> <a href="https://www.facebook.com/jhormandavid.rodriguezrios" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jhormanrios0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/riosj_02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jhorman-rios-47b585224/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+  <p align="left"> <a href="https://www.facebook.com/jhormandavid.rodriguezrios" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jhormanrios0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/riosj_02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jhorman-rios-47b585224/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--horizontal divider(gradiant)-->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
