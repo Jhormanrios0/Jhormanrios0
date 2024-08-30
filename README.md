@@ -3,7 +3,8 @@
 
   <!--h1 without bottom border-->
 
-![Diseño sin título](https://github.com/user-attachments/assets/5a0437f3-1f57-418a-a8a5-c24bc65eb922)
+![Diseño sin título (1)](https://github.com/user-attachments/assets/aec896a5-0216-4f09-adb9-9813c17c522a)
+
 
   <!--About Me-->
 
