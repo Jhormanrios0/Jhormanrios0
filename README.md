@@ -19,7 +19,7 @@
 
 ## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3YXU3MjJiMWlxbHYxdDJuN3dmbmtscndqc2F2MzZxemhod2xzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="20px" style="border-radius: 50%;"></picture> Here's some fun facts about me:
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVxMmhzd2NsaXlpbHg2cG1idTdsYnIzbnNnZTI3YmM0MjBubDM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="200px" style="border-radius: 20%; border: 3px solid #63213e"></picture>
+<picture> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVxMmhzd2NsaXlpbHg2cG1idTdsYnIzbnNnZTI3YmM0MjBubDM2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="100%" height="200px" ></picture>
 
 - 🤖 I am currently improving my skills in JavaScript.
 
