@@ -26,9 +26,7 @@
 
   <!-- image -->
   <div style="display: flex; justify-content: center; align-items: center;">
-    <picture>
-   
-    </picture>
+
   </div>
 
 - 🤖 I am currently improving my skills in JavaScript.
