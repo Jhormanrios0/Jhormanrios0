@@ -53,15 +53,10 @@
 
 </td><td valign="top" width="33%">
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jhormanrios0"><img src="https://github-readme-stats.vercel.app/api?username=jhormanrios0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jhormanrios0's GitHub stats" /></a>
-
-<a href="http://www.github.com/jhormanrios0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jhormanrios0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/jhormanrios0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhormanrios0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jhormanrios0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jhormanrios0&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhormanrios0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   <!--profile visit count-->
 
