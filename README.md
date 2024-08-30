@@ -5,19 +5,14 @@
 
 ![Diseño sin título (1)](https://github.com/user-attachments/assets/aec896a5-0216-4f09-adb9-9813c17c522a)
 
+<!--About Me-->
 
-  <!--About Me-->
-
-![github](https://github.com/user-attachments/assets/eb962930-368c-4936-895a-c99e5fdcaca5)
-
-
-  <h2 style="text-align: center;">
-    <picture>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3YXU3MjJiMWlxbHYxdDJuN3dmbmtscndqc2F2MzZxemhod2xzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="26px" >
-    </picture>
-    Here's some fun facts about me:
-  </h2>
-
+<h2 style="text-align: center; font-size: 26px;">
+  <picture>
+    <img src="https://github.com/user-attachments/assets/eb962930-368c-4936-895a-c99e5fdcaca5" width="38px">
+  </picture>
+  Here's some fun facts about me:
+</h2>
   <!-- image -->
   <div style="display: flex; justify-content: center; align-items: center;">
 
@@ -33,7 +28,7 @@
 
   <br>
   <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="26px">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26px">
   </picture>
   <span style="font-size: 26px;">My Skills</span>
 
@@ -56,7 +51,8 @@
 
 </td><td valign="top" width="33%">
 
-# 📊 GitHub Stats:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 ![](https://github-readme-stats.vercel.app/api?username=jhormanrios0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jhormanrios0&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhormanrios0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -67,8 +63,8 @@
 
   </div>
   <!-- CONTACTO -->
-  <h3 align="left">
-    <img src="https://media.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" alt="Conectando..." width="20" height="20"> Connect with me
+  <h3 align="left" style="font-size: 30px;">
+      <img src="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif" alt="Conectando..." width="30" height="30"> Connect with me
   </h3>
 
   <p align="left"> <a href="https://www.facebook.com/jhormandavid.rodriguezrios" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jhormanrios0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/riosj_02" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jhorman-rios-47b585224/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
