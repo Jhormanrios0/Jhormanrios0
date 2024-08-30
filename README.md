@@ -3,17 +3,7 @@
 
   <!--h1 without bottom border-->
 
-  <div id="user-content-toc">
-    <ul align="left">
-      <summary>
-        <h1 style="display: inline-block">
-          Hi
-          <img src="https://media.tenor.com/M3NNZHZDkBkAAAAi/book-marina-lopes.gif" alt="Lightning Bolt" style="width: 1em; height: 1.3em; vertical-align: middle;">
-          , I'm Jhormanrios0
-        </h1>
-      </summary>
-    </ul>
-  </div>
+![Diseño sin título](https://github.com/user-attachments/assets/5a0437f3-1f57-418a-a8a5-c24bc65eb922)
 
   <!--About Me-->
 
