@@ -8,6 +8,9 @@
 
   <!--About Me-->
 
+![github](https://github.com/user-attachments/assets/eb962930-368c-4936-895a-c99e5fdcaca5)
+
+
   <h2 style="text-align: center;">
     <picture>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU3YXU3MjJiMWlxbHYxdDJuN3dmbmtscndqc2F2MzZxemhod2xzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="26px" >
